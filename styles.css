@@ -1,0 +1,79 @@
+.custom-top {
+    background-color: #212529;
+}
+
+.custom-about-strip {
+    background-color: #495057;
+}
+
+
+.custom-profile-photo {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.organization {
+    font-size: 1.25rem;
+}
+
+
+section {
+    background-color: #f1f3f5;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+button {
+    max-height: 30px;
+}
+
+.education {
+    padding: 0.5rem;
+}
+
+.project {
+    padding: 0.5rem;
+}
+
+.skill {
+    padding: 0.5rem;
+}
+
+.experience {
+    padding: 0.5rem;
+}
+
+.certificate {
+    padding: 0.5rem;
+}
+
+.achievement {
+    padding: 0.5rem;
+}
+
+.language {
+    padding: 0.5rem;
+}
+
+
+.education:hover,
+.project:hover,
+.skill:hover,
+.experience:hover,
+.certificate:hover,
+.achievement:hover,
+.language:hover {
+    transform: scale(1.01);
+    background-color: #ced4da;
+    border-radius: 0.25rem;
+
+}
+
+button:hover {
+    transform: scale(1.05);
+}
